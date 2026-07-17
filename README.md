@@ -18,5 +18,8 @@ Naidesu.<br>
 "What can you do!?"<br>
 *Yarimasu neee~ *
 
+# 🎧 On Repeat / Now Playing:
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=hqj223lvl92bqgxgz721hxyjv&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=990b0b)](https://spotify-github-profile.kittinanx.com/api/view?uid=hqj223lvl92bqgxgz721hxyjv&redirect=true)
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/AdAzWcS3CX)
