@@ -12,6 +12,3 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/AdAzWcS3CX) 
 
-
----
-[![](https://komarev.com/ghpvc/?username=Fir-taka&icon=0&color=0)](https://visitcount.itsvg.in)
