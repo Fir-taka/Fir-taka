@@ -34,6 +34,8 @@
       Naidesu.<br>
       "Can I Build game?"<br>
       Naidesu.<br>
+      "Can I Port rom??"<br>
+      Naidesu.<br>
       "What can you do!?"<br>
       <i>Yarimasu neee~ </i>
     </td>
