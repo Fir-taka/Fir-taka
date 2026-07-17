@@ -4,14 +4,22 @@
 ---
 
 # 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=Fir-taka&theme=date_night&hide_border=false&include_all_commits=true&count_private=true" height="175px" />
-  <img src="https://streak-stats.demolab.com/?user=Fir-taka&theme=date_night&hide_border=false" height="175px" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fir-taka&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="145px" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.shion.dev/api?username=Fir-taka&theme=date_night&hide_border=false&include_all_commits=true&count_private=true" width="100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://streak-stats.demolab.com/?user=Fir-taka&theme=date_night&hide_border=false" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fir-taka&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="60%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
