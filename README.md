@@ -23,20 +23,29 @@
 
 ---
 
-# 💫 About Me:
-"Can I code?"<br>
-Naidesu.<br>
-"Can I debug?"<br>
-Naidesu.<br>
-"Can I Build game?"<br>
-Naidesu.<br>
-"What can you do!?"<br>
-*Yarimasu neee~ *
-
----
-
-# 🎧 On Repeat / Now Playing:
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=hqj223lvl92bqgxgz721hxyjv&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=990b0b)](https://spotify-github-profile.kittinanx.com/api/view?uid=hqj223lvl92bqgxgz721hxyjv&redirect=true)
+<table>
+  <tr>
+    <!-- Kolom Kiri: About Me -->
+    <td valign="top" width="50%">
+      <h3>💫 About Me:</h3>
+      "Can I code?"<br>
+      Naidesu.<br>
+      "Can I debug?"<br>
+      Naidesu.<br>
+      "Can I Build game?"<br>
+      Naidesu.<br>
+      "What can you do!?"<br>
+      <i>Yarimasu neee~ </i>
+    </td>
+    <!-- Kolom Kanan: Spotify -->
+    <td valign="top" width="50%" align="center">
+      <h3>🎧 On Repeat / Now Playing:</h3>
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=hqj223lvl92bqgxgz721hxyjv&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hqj223lvl92bqgxgz721hxyjv&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=990b0b" width="90%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
