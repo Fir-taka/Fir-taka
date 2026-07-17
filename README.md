@@ -25,8 +25,8 @@
 
 <table>
   <tr>
-    <!-- Kolom Kiri: About Me -->
-    <td valign="top" width="50%">
+    <!-- Kolom 1: About Me (Kiri) -->
+    <td valign="top" width="33%">
       <h3>💫 About Me:</h3>
       "Can I code?"<br>
       Naidesu.<br>
@@ -37,11 +37,16 @@
       "What can you do!?"<br>
       <i>Yarimasu neee~ </i>
     </td>
-    <!-- Kolom Kanan: Spotify -->
-    <td valign="top" width="50%" align="center">
-      <h3>🎧 On Repeat / Now Playing:</h3>
+    <!-- Kolom 2: Gambar Waifu (Tengah) -->
+    <td valign="top" width="33%" align="center">
+      <h3>🌸 Waifu:</h3>
+      <img src="https://cdn.discordapp.com/attachments/1462715959239512212/1527511829415329892/Koga_Tomoe.jpg?ex=6a5aedbf&is=6a599c3f&hm=f26cda7cf7f1129ce9b19d5e656a52708fb60ff268c637e15c79ab6c7105c440&" width="90%" style="border-radius: 8px;" />
+    </td>
+    <!-- Kolom 3: Spotify (Kanan) -->
+    <td valign="top" width="34%" align="center">
+      <h3>🎧 Now Playing:</h3>
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=hqj223lvl92bqgxgz721hxyjv&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hqj223lvl92bqgxgz721hxyjv&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=990b0b" width="90%" />
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hqj223lvl92bqgxgz721hxyjv&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=990b0b" width="95%" />
       </a>
     </td>
   </tr>
