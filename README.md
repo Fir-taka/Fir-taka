@@ -42,7 +42,7 @@
     <!-- Kolom 2: Gambar Waifu (Tengah) -->
     <td valign="top" width="33%" align="center">
       <h3>🌸 MY:</h3>
-      <img src="https://cdn.discordapp.com/attachments/1462715959239512212/1527511829415329892/Koga_Tomoe.jpg?ex=6a5aedbf&is=6a599c3f&hm=f26cda7cf7f1129ce9b19d5e656a52708fb60ff268c637e15c79ab6c7105c440&" width="90%" style="border-radius: 8px;" />
+      <img src="https://cdn.discordapp.com/attachments/1462715959239512212/1539532163983089695/Hiyori_Hiwamura__-_.jpeg?ex=6a86a88f&is=6a85570f&hm=cd83982230ad1cfeea1d3eb0bae125b612b7761733d5269d89dab9c8f6776018&="border-radius: 8px;" />
     </td>
     <!-- Kolom 3: Spotify (Kanan) -->
     <td valign="top" width="34%" align="center">
