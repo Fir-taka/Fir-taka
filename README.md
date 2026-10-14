@@ -5,7 +5,7 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Fir-taka&theme=date_night&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Fir-taka&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" width="48%" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fir-taka&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
 </p>
 
@@ -31,7 +31,7 @@
     <td valign="top" width="33%" align="center">
       <h3>🌸 MY:</h3>
       <img src="https://raw.githubusercontent.com/Fir-taka/Fir-taka/main/Hiyori.jpeg" width="85%" style="border-radius: 8px;" alt="Waifu" />
-      <!-- Catatan: Kalau link Discord cdn kamu expired/error, disarankan upload gambar waifunya langsung ke repository GitHub kamu biar aman. -->
+      <br><sub style="color: #666;">(Pastikan file gambarnya sudah di-upload ke repository GitHub kamu dengan nama `Hiyori.jpeg` ya!)</sub>
     </td>
     <!-- Kolom 3: Spotify (Kanan) -->
     <td valign="top" width="34%" align="center">
