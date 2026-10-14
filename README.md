@@ -30,7 +30,7 @@
     <!-- Kolom 2: Gambar Waifu (Tengah) -->
     <td valign="top" width="33%" align="center">
       <h3>🌸 MY:</h3>
-      <img src="https://avatars.githubusercontent.com/u/158580214?v=4" width="85%" style="border-radius: 8px;" />
+      <img src="kud.jpg" width="85%" style="border-radius: 8px;" />
     </td>
     <!-- Kolom 3: Spotify (Kanan) -->
     <td valign="top" width="34%" align="center">
